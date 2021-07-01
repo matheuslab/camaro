@@ -1,5 +1,6 @@
 import React from "react";
 import Table from "./components/Table";
+import "./app.css";
 
 export const App = () => {
   return (
