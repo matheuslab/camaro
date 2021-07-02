@@ -1,11 +1,11 @@
 import React from "react";
-import Table from "./components/Table";
+import Map from "./components/Map";
 import "./app.css";
 
 export const App = () => {
   return (
     <div>
-      <Table />
+      <Map />
     </div>
   );
 };
